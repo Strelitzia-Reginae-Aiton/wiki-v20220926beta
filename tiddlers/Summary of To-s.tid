@@ -1,0 +1,15 @@
+created: 20220926103403784
+list-after: The Origin of Everything
+modified: 20220926104932383
+tags: TableOfContents
+title: Summary of To-s
+tmap.id: 6df22621-7429-4a8b-9bc0-36e3509446ea
+type: text/vnd.tiddlywiki
+
+<div>
+<ul>
+<$list filter="[regexp:title[To-]]-[regexp:title[Summary of To-]]">
+<li><$link><<currentTiddler>></$link></li>
+</$list>
+</ul>
+</div>

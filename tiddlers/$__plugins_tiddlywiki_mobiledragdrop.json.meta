@@ -1,0 +1,9 @@
+author: Tim Ruffles
+dependents: 
+description: Mobile drag and drop shim
+list: readme license
+name: Mobile Drag Drop
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/mobiledragdrop
+type: application/json
+version: 5.2.3

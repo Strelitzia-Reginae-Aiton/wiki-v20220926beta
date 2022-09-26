@@ -1,0 +1,15 @@
+created: 20220926103008576
+list-after: That's all I've wrote about my philosophy
+modified: 20220926103306573
+tags: TableOfContents
+title: Daily
+tmap.id: 2c6df900-49d9-4a5f-ba70-9802e28839e8
+type: text/vnd.tiddlywiki
+
+<div>
+<ul>
+<$list filter="[tag[Daily]]">
+<li><$link><<currentTiddler>></$link></li>
+</$list>
+</ul>
+</div>

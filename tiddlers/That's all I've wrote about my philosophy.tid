@@ -1,0 +1,15 @@
+created: 20220926060950056
+list-after: The Origin of Everything
+modified: 20220926102939394
+tags: TableOfContents
+title: That's all I've wrote about my philosophy
+tmap.id: d150d368-4eca-4017-92f6-02a029d31c2f
+type: text/vnd.tiddlywiki
+
+<div>
+<ul>
+<$list filter="[tag[哲学]]">
+<li><$link><<currentTiddler>></$link></li>
+</$list>
+</ul>
+</div>
